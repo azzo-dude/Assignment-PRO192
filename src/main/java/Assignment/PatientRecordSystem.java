@@ -1,6 +1,3 @@
-/**
- *      HE194330
- */
 package Assignment;
 import java.util.Scanner;
         
