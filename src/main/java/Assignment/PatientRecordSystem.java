@@ -11,7 +11,6 @@ public class PatientRecordSystem {
             
     }
 }
-    
     public static void main(String[] args) {
         
     }
